@@ -1,0 +1,12 @@
+Algoritmo Seleção e Inserção:
+[1, 2, 8, 5, 4, 6]
+[1, 2, 4, 8, 5, 6]
+[1, 2, 4, 5, 8, 6]
+[1, 2, 4, 5, 6, 8]
+Trocas realizadas: 8
+
+Algoritmo Bubble Up and Down:
+[2, 5, 4, 1, 6, 8]
+[1, 2, 5, 4, 6, 8]
+[1, 2, 4, 5, 6, 8]
+Trocas realizadas: 8
