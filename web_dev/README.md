@@ -3,8 +3,7 @@
 > *"Tracking my journey through frontend basics: HTML structure, CSS styling, and JavaScript interactivity."*
 
 ## 📚 Learning Path
-```mermaid
-graph LR
+
     A[HTML] --> B[CSS]
     B --> C[JavaScript]
     C --> D[DOM Manipulation]
