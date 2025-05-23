@@ -3,16 +3,6 @@
 > *"From basic syntax to interactive web magic – my hands-on JS journey."*
 
 ## 💡 Core Concepts
-```javascript
-// Modern JS Example
-const greet = (name = 'Developer') => {
-  const message = `Hello ${name}!`;
-  console.log(message);
-  return message;
-};
-
-// DOM Manipulation
-document.querySelector('#btn').addEventListener('click', greet);
 
 ## 📚 Fundamentals Roadmap
 

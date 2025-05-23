@@ -8,9 +8,3 @@
 - **Algorithms**: Sorting, searching basics
 - **Problem Solving**: Coding challenges
 
-
-## 💻 Why Python?
-```python
-# Simple readability example
-def greet(name):
-    return f"Hello, {name}!" 
