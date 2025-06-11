@@ -10,8 +10,8 @@ products = [
 
 new_products = [
     {**product, 'price': product['price'] * 1.05} 
-    if product['price'] > 20 else {**product}
+    if product['price'] > 20 else {**product} # Mapping happens before 'for' statement
     for product in products
-    if product['price'] > 10
+    if product['price'] > 10 # Filtering happens after 'for' statement
 ]
 print(new_products)

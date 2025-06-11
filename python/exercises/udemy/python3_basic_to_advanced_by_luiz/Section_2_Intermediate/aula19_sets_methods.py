@@ -8,7 +8,8 @@ s1.update(('Olá mundo', 1, 2, 3, 4)) # the string will be iterable by the set
 s1.discard('Olá mundo')
 s1.discard('Luiz')
 print(s1)
+
 # Handful operators:
 # union | union (union) - Unite
 # intersection & (intersection) - Items in both
-# diference - Items that bellow to the left set
+# diference - Items that bellow to the left setk

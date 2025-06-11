@@ -30,7 +30,6 @@ integer_list_number = [
     [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
 ]
 
-array= [1, 3, 7, 2, 2, 1, 5, 1, 9, 9]
 
 def check_duplicate(array):
     storage_number = 0
